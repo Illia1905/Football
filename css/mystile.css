@@ -1,0 +1,172 @@
+ body {
+    font-family: "Arial", sans-serif;
+    margin: 0%;
+    background-color: #8dc63f;
+
+ }
+
+ .wrapper {
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 960px;
+    background-color: #ffffff;
+    border-style: border-box;
+ }
+
+ .basis {
+    padding: 25px 0;
+    justify-content: space-between;
+ }
+
+ .basis p {
+    margin: 0;
+ }
+
+ .name {
+    align-items: center;
+ }
+
+ .name,
+ .name p,
+ .name img {
+    float: left;
+ }
+
+ .name img:hover {
+    padding-left: 300px;
+ }
+
+ .clear {
+    clear: both;
+
+ }
+
+ .name img {
+    margin-left: 35px;
+    transition: all 1s ease;
+ }
+
+ .name p {
+    margin: 0;
+    font-size: 22px;
+    color: #8dc63f;
+    font-family: "Arial";
+ }
+
+ .name b {
+
+    font-size: 44px;
+    color: #8dc63f;
+    font-weight: bold;
+    display: block;
+ }
+
+ .name i {
+    font-size: 14px;
+    color: #5a5a5a;
+ }
+
+ .number {
+    float: right;
+    text-align: right;
+ }
+
+ .main-picture {
+    width: 100%;
+    vertical-align: bottom;
+ }
+
+
+
+ .number a {
+    margin: 0;
+    font-size: 22px;
+    color: #39930d;
+    font-family: "Arial";
+    text-align: right;
+    text-decoration: none;
+
+ }
+
+ .number i {
+    font-size: 14px;
+    color: #5a5a5a;
+    line-height: 2em;
+    display: block;
+ }
+
+ .content {
+    padding-bottom: 30px;
+ }
+
+
+
+ .about_football {
+    float: left;
+ }
+
+ .about_football h1 {
+
+    font-size: 24px;
+    color: #39930d;
+ }
+
+ .about_football p {
+    max-width: 594px;
+    color: #343434;
+ }
+
+
+
+ .partners {
+    float: right;
+    width: 300px;
+    padding: ;
+
+ }
+
+ .partners p {
+    padding: 10px;
+    margin: 11px 1px;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: "Arial";
+    background-color: #39930d;
+ }
+
+ .partners ul {
+    list-style: none;
+    padding-left: 20px;
+    ;
+ }
+
+ .partners a {
+    font-size: 14px;
+    line-height: 30px;
+    text-decoration: underline;
+    color: #39930d;
+    text-transform: uppercase;
+    transition: padding 1s ease;
+ }
+
+ .partners a:hover {
+    padding-left: 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #5a5a5a;
+ }
+
+ .footer  {
+    background-color: #39930d;
+    margin: 0 10px;
+    padding: 10px;
+    
+ }
+
+ .football {
+    margin: 0 -15px;
+    padding: 15px;
+    background-color: #39930d;
+    font-size: 20px;
+    color: #ffffff;
+ }
