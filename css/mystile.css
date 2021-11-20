@@ -4,12 +4,15 @@
     background-color: #8dc63f;
 
  }
-
+body,
+body a {
+   cursor: url('cursor.cur'),
+   auto;
+}
  .wrapper {
     margin: 0 auto;
     padding: 0 15px;
     max-width: 960px;
-    box-sizing: border-box;
     background-color: #ffffff;
     border-style: border-box;
  }
@@ -141,7 +144,7 @@
  .partners ul {
     list-style: none;
     padding-left: 20px;
-    ;
+    
  }
 
  .partners a {
